@@ -5,3 +5,4 @@ git commit = salva
 git brench = muda a "aba"
 giit push = manda pra nave mãe
 git pull = puxa da nave mãe
+git add = adiciona mudanaças na brench
