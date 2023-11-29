@@ -8,4 +8,4 @@ git checkout -b "nome" = cria a branch e muda pra ela
 git branch -d "nome" = exclui a branch
 giit push = manda pra base
 git pull = puxa da base
-git add = adiciona mudanaças na branch
+git add = adiciona mudanças na branch
