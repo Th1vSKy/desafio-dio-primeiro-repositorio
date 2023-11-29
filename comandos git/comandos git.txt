@@ -1,8 +1,8 @@
 git init = inicia
-git statis = mostra status
+git status = mostra status
 git log = mostra o log
 git commit = salva
 git brench = muda a "aba"
-giit push = manda pra nave mãe
-git pull = puxa da nave mãe
+giit push = manda pra base
+git pull = puxa da base
 git add = adiciona mudanaças na brench
